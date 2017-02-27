@@ -1,5 +1,5 @@
 Pod::Spec.new do |s|
-  s.name         = 'DateTools'
+  s.name         = 'QoCDateTools'
   s.version      = '2.0.1'
   s.summary      = 'Dates and time made easy in Objective-C'
   s.homepage     = 'https://github.com/QoCHealth/external-library-ios-DateTools'
